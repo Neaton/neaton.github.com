@@ -15,6 +15,6 @@ tagline: 关注高性能网站架构
 
 ### Projects
 
-[Erlang入门指南](http://neatonyao.github.com):将learnyousomeerlang.com翻译成中文版
+[Erlang入门指南](http://learnerlang.archfan.com):Learn you some Erlang for Great Good 中文版
 
 
